@@ -12,7 +12,7 @@ Fill and submit the google form by clicking on link below.
 
 ### Step-3:
 * After submitting the google form, please notify to the MS-ACS office at [msacs@nwmissouri.edu].
-* Copy all the team members and the program coordinator Dr. Ajay Bandi in email. 
+* Copy all the team members, the program coordinator Dr. Ajay Bandi, and your instructor in the email. 
 * The subject of email should be: (TeamName + "Google form submitted with repository link for GDP project submission"). 
 * The MS-ACS office will download your repository and upload the zip file to the 2020Fall-GDP-II-Projects repository.
 
